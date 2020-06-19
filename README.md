@@ -1,5 +1,5 @@
 # Bat-2-Exec
-Covert Batch files into Executables using IExpress 
+A wrapper for converting Batch files into Executables using IExpress 
 
 ## Usage
 * Download the [Bat2Exe]() script
