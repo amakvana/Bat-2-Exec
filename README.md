@@ -1,6 +1,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/amakvana/Bat-2-Exec)
 ![GitHub all releases](https://img.shields.io/github/downloads/amakvana/Bat-2-Exec/total)
-![GitHub](https://img.shields.io/github/license/amakvana/EzYuzu)
+![GitHub](https://img.shields.io/github/license/amakvana/Bat-2-Exec)
 
 # Bat-2-Exec
 A wrapper for converting Batch files into Executables using IExpress 
